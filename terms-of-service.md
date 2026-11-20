@@ -1,14 +1,14 @@
 # Aside — Terms of Service
 
 **Effective date:** 2026-10-20
-**Last updated:** 2026-10-20
+**Last updated:** 2026-11-20
 **Status:** Published. This document was prepared without independent legal review; it is updated in place when anything changes.
 
 ---
 
 ## 1. The agreement
 
-These Terms of Service ("Terms") form a binding agreement between you and **Naresh Kumar Singh** ("we", "us"), the publisher of **Aside**, a macOS application that listens through your microphone and, when enabled, the meeting audio on your Mac, transcribes it on-device or through a speech-to-text service, and surfaces tailored answer suggestions grounded in your CV.
+These Terms of Service ("Terms") form a binding agreement between you and **Naresh Kumar Singh** ("we", "us"), the publisher of **Aside**, an app for Mac and iPad that listens through your microphone and, on Mac, when enabled, the meeting audio playing on your Mac, transcribes it on-device or through a speech-to-text service, and surfaces tailored answer suggestions grounded in your CV.
 
 By installing, opening, or signing into Aside you accept these Terms. If you do not accept them, do not use Aside.
 
@@ -65,7 +65,7 @@ We may suspend or terminate your account if we have a reasonable belief you've v
 
 ## 5. AI-generated content
 
-Aside uses third-party AI models (currently OpenAI's `gpt-4.1`) to generate answers, resumes, and cover letters. AI-generated content is **a starting point, not a finished product.**
+Aside uses third-party AI models (currently Anthropic's Claude models, with Cloudflare Workers AI as a backup for live answers) to generate answers, resumes, and cover letters. AI-generated content is **a starting point, not a finished product.**
 
 You acknowledge that:
 
